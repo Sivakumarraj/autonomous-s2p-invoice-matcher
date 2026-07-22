@@ -1,0 +1,6 @@
+INVOICE #INV-1002
+Ref PO: PO-2026-089
+Item: LPT-THINKPAD-X1
+Qty: 100
+Price: .00
+(Note: We billed for 100, but only shipped 90)

@@ -1,0 +1,4 @@
+Invoice ID,PO Reference,RAG Status,Discrepancies,Processed At
+INV-1001-PERFECT,PO-2026-089,🟩 GREEN,None,2026-07-22 16:45:05.578890
+INV-1002-SHORT,PO-2026-089,🟨 AMBER,Billed Qty (100) > Received Qty (90),2026-07-22 16:45:05.588462
+INV-1003-GOUGE,PO-2026-089,🟥 RED,Price Variance ($1700) exceeds 5% tolerance.,2026-07-22 16:45:05.596306
