@@ -51,7 +51,6 @@ The pipeline automatically processes daily AP invoice queues, executes determini
 
 ✅ [BATCH COMPLETE] All invoices processed.
 📊 [REPORT GENERATED] Daily reconciliation saved to client_data/daily_reconciliation_report.csv
-
 🧪 Testing & Reliability
 This repository emphasizes robust unit testing for the deterministic tools prior to agent orchestration, ensuring the guardrails function independently of the AI models.
 
@@ -67,9 +66,9 @@ Persistence & Audit: SQLite3 & CSV Reconciliation Exporter
 Testing: Pytest
 
 💻 Quick Start
-
+Bash
 # 1. Clone the repo
-git clone [https://github.com/Sivakumarraj/autonomous-s2p-invoice-matcher.git](https://github.com/Sivakumarraj/autonomous-s2p-invoice-matcher.git)
+git clone https://github.com/Sivakumarraj/autonomous-s2p-invoice-matcher.git
 cd autonomous-s2p-invoice-matcher
 
 # 2. Install dependencies
